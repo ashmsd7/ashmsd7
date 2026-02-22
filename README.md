@@ -1,38 +1,35 @@
 ## Hi there 👋
 
-I'm Ashwin, an engineer based in Hyderabad, India.
+I'm Ashwin, an engineering student based in Hyderabad, India.
 
-I'm a MERN developer, always looking to work on interesting projects that hold some significance and usefulness.
+I'm a MERN stack developer who enjoys building meaningful, user-focused web applications. I’m always open to working on projects that solve real problems and create impact.
 
-I use Figma and Google stitch for UI based Web designs.
+I design clean and functional interfaces using Figma and Google Stitch before bringing them to life in code.
 
-## Tools and Technologies
 
-- ReactJS
-- NodeJS
-- TailwindCSS
-- MongoDB
-- Figma
-- Stitch
-- MySQL
+## 🚀 Tech Stack
 
-## Hobbies and Interests
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+- Tailwind CSS  
+- Figma  
+- Google Stitch  
 
-- I love debating about topics im interested in which help me thoroughly participate in MUNs.
-- I play Basketball and Chess in a consistent fashion.
-- I love taking pictures of random things that entice me.
 
-<!--
-**ashmsd7/ashmsd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Focused On
 
-Here are some ideas to get you started:
+- Building full-stack MERN applications  
+- Writing clean, scalable code  
+- Improving system design and problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏀 Beyond Code
+
+- Active participant in Model United Nations (MUN) and enjoy involving in other social activites  
+- Play Basketball and Chess regularly  
+- Love capturing random moments through photography  
+
+### 📫 Let’s Connect
+Open to collaborations, internships, and interesting ideas.
