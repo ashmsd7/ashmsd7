@@ -14,7 +14,8 @@ I'm a MERN stack developer who enjoys building meaningful, user-focused web appl
 - MySQL  
 - Tailwind CSS  
 - Figma  
-- Google Stitch  
+- Google Stitch
+- Mongodb
 
 
 ## 🌱 Currently Focused On
