@@ -4,8 +4,6 @@ I'm Ashwin, an engineering student based in Hyderabad, India.
 
 I'm a MERN stack developer who enjoys building meaningful, user-focused web applications. I’m always open to working on projects that solve real problems and create impact.
 
-I design clean and functional interfaces using Figma and Google Stitch before bringing them to life in code.
-
 
 ## 🚀 Tech Stack
 
