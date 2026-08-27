@@ -62,7 +62,13 @@ I'm an Artificial Intelligence & Data Science undergraduate based in Hyderabad, 
 
 **Projects under development**
 
-Building a local-first Android voice assistant with offline speech recognition (Vosk), intent routing, and on-device expense tracking. Current focus is refining the speech pipeline and application architecture before implementing additional assistant capabilities. Connecting pre-trained , integrated model with external dashboard APIs for expense tracking and other basic, personalized functionalities.
+-- Building a local-first Android voice assistant with offline speech recognition (**Vosk**), intent routing, and on-device expense tracking. Current focus is refining the speech pipeline and application architecture before implementing additional assistant capabilities. Connecting pre-trained , integrated model with external dashboard APIs for expense tracking and other basic, personalized functionalities.
+
+-- An ESG analytics pipeline for extracting structured sustainability indicators from Indian BRSR reports.
+Uses **Docling** to convert BRSR PDFs into structured text, tables, and metadata with source provenance.
+Applies targeted retrieval and **LLM-based extraction** to identify and normalize key ESG metrics.
+Evaluates extracted results against structured reference data such as **XBRL** to assess accuracy and reliability.
+
 
 ## Areas of Interest
 
