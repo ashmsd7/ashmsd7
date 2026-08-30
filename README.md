@@ -10,7 +10,7 @@ I'm an Artificial Intelligence & Data Science undergraduate based in Hyderabad, 
 
 * Building production-oriented AI applications using **Retrieval-Augmented Generation (RAG)**
 * Developing intelligent backend systems with **FastAPI** and **REST APIs**
-* Exploring **LLM integration**, semantic retrieval, embeddings, and vector databases
+* Exploring **LLM integration**, **RAG**, semantic retrieval, embeddings, and vector databases to build usable applications and interfaces.
 * Strengthening my understanding of **System Design**, **Data Structures & Algorithms**, and scalable software architecture
 * Learning collaborative software development through **Git**, **GitHub**, and Open Source
 
