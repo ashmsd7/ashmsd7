@@ -69,6 +69,8 @@ Uses **Docling** to convert BRSR PDFs into structured text, tables, and metadata
 Applies targeted retrieval and **LLM-based extraction** to identify and normalize key ESG metrics.
 Evaluates extracted results against structured reference data such as **XBRL** to assess accuracy and reliability.
 
+-- Building **GymTracker**, a full-stack fitness tracker built to log lifts, analyze performance trends, and provide data-driven progression insights. Including OpenCV , Machine Learning, LLM Integration & NLP. 
+
 
 ## Areas of Interest
 
